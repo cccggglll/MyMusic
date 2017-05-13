@@ -1,0 +1,32 @@
+#cover {
+    width: 500px;
+    height: 300px;
+    margin-left: 5px;
+}
+
+audio {
+    width: 500px;
+    margin: 5px;
+}
+
+body {
+    background: rgb(162, 212, 159);
+    font-family: 微软雅黑;
+}
+
+.bo {
+    width: 510px;
+    height: 340px;
+    margin: 20px auto;
+    border: 5px solid rgb(242, 98, 71);
+}
+
+h1 {
+    text-align: center;
+    color: palevioletred;
+}
+
+#div1 {
+    width: 600px;
+    margin: 10px auto;
+}
