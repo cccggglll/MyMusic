@@ -1,0 +1,34 @@
+#cover {
+    width: 600px;
+    height: 400px;
+    margin: 10px 370px;
+}
+
+body {
+    background: rgb(148, 197, 227);
+    font-family: 微软雅黑;
+}
+
+audio {
+    width: 600px;
+    margin: 0px 370px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(239, 145, 145);
+}
+
+#some {
+    width: 60%;
+    margin: 0 auto;
+    font-size: 18px;
+}
+
+#img {
+    position: fixed;
+    left: 1100px;
+    top: 100px;
+    width: 200px;
+    height: 300px;
+}
